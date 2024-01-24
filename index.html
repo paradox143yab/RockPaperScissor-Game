@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Nabla&family=Poppins:ital,wght@0,700;1,400;1,800&family=Roboto:wght@400;700&family=Work+Sans:ital,wght@0,700;1,300&display=swap"
+            rel="stylesheet">
+        <title>rock</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="btn"><button type="button" class="rock"
+                    onclick="show(this)">rock</button>
+                <button type="button" class="paper" onclick="show(this)">paper</button>
+                <button type="button" class="scissor" onclick="show(this)">scissor</button></div>
+            <div class="all">
+                <p>Your choice: <span class="result">------</span></p>
+                <p>Computer's choice: <span class="Cresult">------</span></p>
+                <p class="winner">...</p>
+
+                <h1>Win: <span class="win">0</span> Lose: <span class="lose">0</span>
+                    Draw: <span class="draw">0</span></h1>
+
+            </div>
+        </div>
+        <script src="app.js"></script>
+    </body>
+
+</html>

@@ -1,0 +1,61 @@
+body {
+  background-color: #252424;
+  background-image: url("./rock-paper-scissors.png");
+  background-repeat: no-repeat;
+  /* background-position: center ; */
+  background-position-x: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+button {
+  background-color: #3468c0;
+  color: white;
+  border-radius: 20%;
+  border-color: black;
+  font-family: "Roboto", sans-serif;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.all {
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  color: #eb43aa;
+  font-family: "Poppins", sans-serif;
+}
+
+span {
+  color: #6c5f5b;
+  font-family: "Nabla", sans-serif;
+}
+
+.winner {
+  color: gold;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+h1 {
+  color: white;
+  margin-top: 40px;
+}
+
+h1 span {
+  font-weight: 700;
+  margin: 0 10px;
+}
