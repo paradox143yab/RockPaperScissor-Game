@@ -12,6 +12,18 @@ body {
   font-family: "Inter", sans-serif;
 }
 
+.attribution {
+  color: yellow;
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  bottom: 0;
+  font-size: 10px;
+  text-align: center;
+  align-items: center;
+  justify-self: center;
+}
+
 .btn {
   display: flex;
   justify-content: center;
