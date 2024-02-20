@@ -34,9 +34,7 @@ Features
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://paradox143yab.github.io/RockPaperScissor-Game/]
 
 ## My process
 During the development of this game, I followed the following process:
@@ -64,9 +62,7 @@ Documentation and README creation: I developed skills in documenting my code usi
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Telegram - [@t.me/Ak7Yab]
 
 
 ## Acknowledgments
