@@ -44,11 +44,10 @@ During the development of this game, I followed the following process:
   -HTML Structure: I created the HTML structure for the game
   -CSS Styling: I applied CSS styles to make the game visually appealing. I used CSS selectors, properties, and values to customize the layout, colors, and animations.
   -JavaScript Logic: I implemented the game logic using JavaScript. I created functions to generate the computer's random choice, compare it with the player's choice, and determine the winner. I also added event listeners to the buttons to capture the player's selection.
-  -Testing and Refinement: I thoroughly tested the game for different scenarios, including various player and computer choices. I debugged any issues and refined the code to ensure smooth gameplay and accurate results.
-  -Documentation: I documented the code using clear comments and wrote this README file to provide instructions, game description, and an overview of my development process.
+  -Testing and Refinement: I thoroughly tested the game for different scenarios, including various player and computer choices.
+  -Documentation: I documented the code using this README file to provide instructions, game description, and an overview of my development process.
 
 ### Built with
-
 
   -HTML: Used for structuring the web page
   -CSS: Used for styling the game elements
@@ -57,11 +56,11 @@ During the development of this game, I followed the following process:
 ### What I learned
 During the development of this Rock, Paper, Scissors game, I learned several key concepts and skills, including:
 
-Game logic implementation: I gained experience in translating the rules of a game into code and developing the necessary functions to determine the outcome based on player choices.
-    DOM manipulation: I learned how to interact with the Document Object Model (DOM) using JavaScript to update the game elements dynamically and provide a responsive user interface.
-    Event handling: I practiced adding event listeners to elements and capturing user interactions to trigger specific actions or functions.
-    Debugging and testing: I acquired knowledge in debugging techniques to identify and resolve issues in the code. I also learned the importance of comprehensive testing to ensure the game functions correctly in different scenarios.
-    Documentation and README creation: I developed skills in documenting my code using clear comments and creating a README file to provide instructions and an overview of the project.
+Game logic implementation: I gained experience in translating the rules of a game into code 
+DOM manipulation: I learned how to interact with the Document Object Model (DOM) using JavaScript 
+Event handling: I practiced adding event listeners to elements and capturing user interactions to trigger specific actions or functions.
+Debugging and testing: I acquired knowledge in debugging techniques to identify and resolve issues in the code. 
+Documentation and README creation: I developed skills in documenting my code using clear comments and creating a README file to provide instructions and an overview of the project.
 
 ## Author
 
