@@ -40,12 +40,12 @@ Features
 
 ## My process
 During the development of this game, I followed the following process:
-Planning: I started by understanding the game rules and requirements. I outlined the basic functionality and identified the necessary HTML elements, CSS styles, and JavaScript functions. 
--HTML Structure: I created the HTML structure for the game, including the header, game area, and result display section. I used semantic HTML tags to ensure accessibility and proper document structure.
--CSS Styling: I applied CSS styles to make the game visually appealing. I used CSS selectors, properties, and values to customize the layout, colors, and animations.
--JavaScript Logic: I implemented the game logic using JavaScript. I created functions to generate the computer's random choice, compare it with the player's choice, and determine the winner. I also added event listeners to the buttons to capture the player's selection.
--Testing and Refinement: I thoroughly tested the game for different scenarios, including various player and computer choices. I debugged any issues and refined the code to ensure smooth gameplay and accurate results.
--Documentation: I documented the code using clear comments and wrote this README file to provide instructions, game description, and an overview of my development process.
+  -Planning: I started by understanding the game rules and requirements.   
+  -HTML Structure: I created the HTML structure for the game
+  -CSS Styling: I applied CSS styles to make the game visually appealing. I used CSS selectors, properties, and values to customize the layout, colors, and animations.
+  -JavaScript Logic: I implemented the game logic using JavaScript. I created functions to generate the computer's random choice, compare it with the player's choice, and determine the winner. I also added event listeners to the buttons to capture the player's selection.
+  -Testing and Refinement: I thoroughly tested the game for different scenarios, including various player and computer choices. I debugged any issues and refined the code to ensure smooth gameplay and accurate results.
+  -Documentation: I documented the code using clear comments and wrote this README file to provide instructions, game description, and an overview of my development process.
 
 ### Built with
 
